@@ -1,9 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/736431978227826688/892157736819765278/ShopifyInfo.png">
-
-<p align="center"><img src="https://media.discordapp.net/attachments/949047428387074048/979719107379331082/unknown.png"></p>
-
-<p align="center"><a href="https://discord.gg/EfVn2uW23j"> <img src="https://discordapp.com/api/guilds/803034737261936670/widget.png" alt="Discord server"/></a></p>
-
 # MTA:SA RDX
 
 - This Script Display DX/GUI for All screen formats, Where the way to use it is easy and you do not need practice to use it
