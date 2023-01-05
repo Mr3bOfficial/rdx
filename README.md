@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/927728569382236180/1060666841644683434/Group_1.png">
+
 # MTA:SA RDX
 
 - This Script Display DX/GUI for All screen formats, Where the way to use it is easy and you do not need practice to use it
