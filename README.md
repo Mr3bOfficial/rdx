@@ -1,4 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/927728569382236180/1060666841644683434/Group_1.png">
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/927728569382236180/1060666841644683434/Group_1.png"></p>
 
 # MTA:SA RDX
 
